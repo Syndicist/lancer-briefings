@@ -19,7 +19,20 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.waves.min.js"></script>
   <script>
-    VANTA.WAVES({
+    VANTA.NET({
+      el: "body",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0x3f4aff,
+      points: 20.00,
+      spacing: 12.00
+    })
+/*    VANTA.WAVES({
       el: "body",
       mouseControls: true,
       touchControls: true,
@@ -34,6 +47,7 @@
       waveSpeed: 0.10,
       zoom: 0.65
     })
+*/
   </script>
 </body>
 

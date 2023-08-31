@@ -5,8 +5,8 @@
 /*-------------------------------------*/
 
 //Primary Colors
-$primary: rgba(125, 187, 187, 1);
-$secondary: rgba(23, 29, 30, 0.8);
+$primary: rgb(125, 129, 187);
+$secondary: rgba(23, 24, 39, 0.8);
 $highlight-hover: rgba(255, 255, 255, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
@@ -21,8 +21,8 @@ $location-separator: rgba(255, 255, 255, 0.24);
 $text-mission-title: rgba(255, 255, 255, 0.67);
 $text-mission-status: rgba(255, 255, 255, 0.87);
 $mission-start: rgba(109, 109, 109, 1);
-$mission-partial: rgba(88, 34, 102, 1);
-$mission-success: rgba(34, 102, 98, 1);
+$mission-partial: rgb(69, 34, 102);
+$mission-success: rgb(50, 47, 238);
 $mission-failure: rgba(176, 45, 45, 1);
 
 //Pilot Roster Text
