@@ -15,7 +15,7 @@
     </div>
     <div class="rhombus">&nbsp;</div>
     <video autoplay muted loop width="90px" height="90px">
-      <source src="/planet.webm" type="video/webm" />
+      <source src="/hercynia.webp" type="video/webp" />
     </video>
     <div class="location-info">
       <div class="location-row" id="planet-year">
