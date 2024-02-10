@@ -122,7 +122,7 @@ export default {
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "DAETHSHEAD"
+          "mech": "DEATHSHEAD"
         },
       ],
       "header": {
