@@ -89,52 +89,44 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "The Drop",
+          "slug": "000",
+          "name": "The Milkrun",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Laplace",
-          "alias": "Caius of Miles",
+          "callsign": "Deathcap",
+          "alias": "Paleta",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Will of Caius"
+          "frame": "Sagarmatha",
+          "mech": "We All Love Pino"
         },
         {
-          "callsign": "Silver",
-          "alias": "Thalia",
+          "callsign": "Cachivache",
+          "alias": "Federico Volorov",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Gold"
-        },
-        {
-          "callsign": "MOAB",
-          "alias": "Charles Enorme Elan",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Theseus' Regret"
+          "mech": "Better Than One"
         },
       ],
       "header": {
-        "planet": "Cressidium",
+        "planet": "Hercynia",
         "year": "5014u",
-        "system": "Sol Cressidius",
-        "gate": "-Cerro Barajas",
-        "ring": "Sierra Madre-Line",
+        "system": "Ardennes",
+        "gate": "Atlas-Quanokrim",
+        "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "007th Detachment",
-        "subheaderSubtitle": "Fortunate Guns",
+        "subheaderTitle": "010th Detachment",
+        "subheaderSubtitle": "Eclipse Company",
       },
       "options":{
         "eventsMarkdownPerMission": true

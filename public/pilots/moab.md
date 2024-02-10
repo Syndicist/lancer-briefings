@@ -1,1 +1,0 @@
-Born to middle class family, of Harrison armory engineers. Broke the law and was given the out to join the military and save families pension. Became a lancer by chance getting sponsored by a pilot. Leave military after crashing a carrier on a habitat block. Gets recruited to the merc company after a few years of being a freight marshal.
