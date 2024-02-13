@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Deathcap",
           "alias": "Paleta",
-          "code": "Smokehouse Station - MSMC Recruitment Franchise//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "Smokehouse Station - MSMC Recruitment Franchise//UGFsZXRh-RGVhdGhjYXA=-NTAxNHU=-YWN0aXZl",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "We All Love Pino"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Catch",
           "alias": "Federico Volorov",
-          "code": "Smokehouse Station - MSMC Recruitment Franchise//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "Smokehouse Station - MSMC Recruitment Franchise//RmVkZXJpY28gVm9sb3Jvdg==-Q2F0Y2g=-NTAxNHU=-YWN0aXZl",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Better Than One"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Lachesis",
           "alias": "Ambroz Cristales",
-          "code": "Smokehouse Station - MSMC Recruitment Franchise//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "Smokehouse Station - MSMC Recruitment Franchise//QW1icm96IENyaXN0YWxlcw==-TGFjaGVzaXM=-NTAxNHU=-YWN0aXZl",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "DEATHSHEAD"
