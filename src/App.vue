@@ -96,7 +96,7 @@ export default {
         {
           "slug": "000",
           "name": "The Milkrun",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
