@@ -89,14 +89,19 @@ export default {
 
   data() {
     return {
-      "mission_slug": "000",
-      "current_md": "",
+      "mission_slug": "001",
+      "current_md": "001",
       "events": "000",
       "missions": [
         {
           "slug": "000",
           "name": "The Milkrun",
           "status": "success"
+        },
+        {
+          "slug": "001",
+          "name": "Bug Hunt",
+          "status": "start"
         },
       ],
       "pilots": [
